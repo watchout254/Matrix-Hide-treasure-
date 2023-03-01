@@ -7,7 +7,7 @@ rembo1 = ['❌','❌','❌']
 rembo2 = ['❌','❌','❌']
 rembo3 = ['❌','❌','❌']
 
-combi = [rembo1,rembo2,rembo1]
+combi = [rembo1,rembo2,rembo3]
 print(f"{rembo1}\n{rembo2}\n{rembo3}")
 
 markX = input("Enter the row & column(No comma) of your choice within the matrix: ")#string
